@@ -1,6 +1,4 @@
-## Product Feedback App
-
-Product Feedback App es una solución de software de vanguardia diseñada para agilizar y mejorar el proceso de recopilación, gestión y actuación en función de los comentarios de los clientes para empresas de todos los tamaños. Esta aplicación fácil de usar permite a las empresas fomentar relaciones más sólidas con sus clientes, tomar decisiones informadas sobre productos e impulsar la mejora continua.
+# Product Feedback App
 
 ## Feactures
 
